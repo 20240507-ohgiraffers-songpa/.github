@@ -9,4 +9,5 @@
 
 ### java : [java](https://github.com/20240507-ohgiraffers-songpa/01_java)
 
+### mysql : [mysql](https://github.com/20240507-ohgiraffers-songpa/02_mysql)
 
