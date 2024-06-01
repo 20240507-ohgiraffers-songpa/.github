@@ -11,3 +11,6 @@
 
 ### mysql : [mysql](https://github.com/20240507-ohgiraffers-songpa/02_mysql)
 
+## jdbc : [jdbc](https://github.com/20240507-ohgiraffers-songpa/03_jdbc)
+
+## mybatis : [mybatis](https://github.com/20240507-ohgiraffers-songpa/04_mybatis)
