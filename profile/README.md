@@ -1,16 +1,43 @@
+# _Ohgiraffers-Songpa_
+>JAVA&Spring 백엔드 개발자 과정
 
-# Ohgiraffers-songpa
+### ✨ 2024-05-07 ~ 
 
-### 수강생 여러분 환영합니다.
+<br><br><br>
 
-### 2024-05-07 ~ 
+## 🔎 Lecture Sources
 
----
+<br>
 
-### java : [java](https://github.com/20240507-ohgiraffers-songpa/01_java)
+### 🌟 Back-end
 
-### mysql : [mysql](https://github.com/20240507-ohgiraffers-songpa/02_mysql)
+| Chapter | Repository |
+| ------ | ------ |
+| JAVA | [Java lecture sources](https://github.com/20240507-ohgiraffers-songpa/01_java) |
+| JDBC | [JDBC lecture sources](https://github.com/20240507-ohgiraffers-songpa/03_jdbc) |
+| MyBatis | [MyBatis lecture sources](https://github.com/20240507-ohgiraffers-songpa/04_mybatis) |
+| Servlet & JSP | [Servlet & JSP lecture sources](-) |
 
-### jdbc : [jdbc](https://github.com/20240507-ohgiraffers-songpa/03_jdbc)
+<br>
 
-### mybatis : [mybatis](https://github.com/20240507-ohgiraffers-songpa/04_mybatis)
+### 🗃 Database
+| Chapter | Repository |
+| ------ | ------ |
+| MySQL | [MySQL lecture sources](https://github.com/20240507-ohgiraffers-songpa/02_mysql) |
+
+<br>
+
+### 🖥️ Front-end
+
+| Chapter | Repository |
+| ------ | ------ |
+| HTML & CSS | [HTML5 & CSS3 lecture sources](-) |
+
+<br>
+
+### 🔥 Skills
+
+| Chapter | Repository |
+| ------ | ------ |
+| Ajax | [AJAX lecture sources](-) |
+
