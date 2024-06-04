@@ -16,7 +16,7 @@
 | JAVA | [Java lecture sources](https://github.com/20240507-ohgiraffers-songpa/01_java) |
 | JDBC | [JDBC lecture sources](https://github.com/20240507-ohgiraffers-songpa/03_jdbc) |
 | MyBatis | [MyBatis lecture sources](https://github.com/20240507-ohgiraffers-songpa/04_mybatis) |
-| Servlet & JSP | [Servlet & JSP lecture sources](-) |
+| Servlet & JSP | [Servlet](https://github.com/20240507-ohgiraffers-songpa/05_servlet.git) & [JSP lecture sources](-) |
 
 <br>
 
