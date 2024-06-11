@@ -32,6 +32,7 @@
 | Chapter | Repository |
 | ------ | ------ |
 | HTML & CSS | [HTML5 & CSS3 lecture sources](https://github.com/20240507-ohgiraffers-songpa/ref_HTML5-CSS3.git) |
+| jQuery | [jQuery lecture sources](https://github.com/20240507-ohgiraffers-songpa/07_jQuery.git) |
 
 <br>
 
