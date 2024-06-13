@@ -40,5 +40,5 @@
 
 | Chapter | Repository |
 | ------ | ------ |
-| Ajax | [AJAX lecture sources](-) |
+| Ajax | [AJAX lecture sources](https://github.com/20240507-ohgiraffers-songpa/08_ajax.git) |
 
